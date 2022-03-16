@@ -1,4 +1,4 @@
-| R01 Micro Architecture![img](./R01 Micro-architecture.jpg)   |                                                              |                 |
+| ![img](./R01 Micro-architecture.jpg)                         |                                                              |                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
 | R01A Core; R01B Cache; R01C CoProcessor; R01D Interconnect; R01E Miscellaneous system; R01F Debugger; R01G Microarchitecture Security. |                                                              |                 |
 | R01A Core;                                                   |                                                              |                 |
