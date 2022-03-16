@@ -1,4 +1,4 @@
-| R02 ISA                                                      |                                                              |                 |
+| R02 ISA![R02 Instruction Set Architecture](./R02 Instruction Set Architecture.png) |                                                              |                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
 | R02A Computational INSTs; R02B Control Transfer INSTs; R02C Data Transfer INSTs; R02D Float-Point INSTs; R02E Memory Ordering INSTs; R02F Environment Call & Breakpoints INSTs; R02G HINT INSTs; R02H Atomic INSTs; R02I Control & Status Register (CSR) INSTs; R02J Compressed INSTs; R02K Bit Manipulation INSTs; R02L Language Translated INSTs; R02M Transactional Memory INSTs; R02N Packed-SIMD INSTs; R02O Vector INSTs; R02P Debug INSTs; R02Q Privileged INSTs |                                                              |                 |
 | R02A Computational INSTs                                     |                                                              |                 |
