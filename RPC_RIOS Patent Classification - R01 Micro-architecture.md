@@ -1,4 +1,6 @@
-| R01 Micro Architecture![img](https://github.com/RIOS-Laboratory/RIOS-Patent-Classification/blob/main/R01Micro-architecture.png) |                                                              |                 |
+![img](https://github.com/RIOS-Laboratory/RIOS-Patent-Classification/blob/main/R01Micro-architecture.png)
+
+| R01 Micro Architecture                                       |                                                              |                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
 | R01A Core; R01B Cache; R01C CoProcessor; R01D Interconnect; R01E Miscellaneous system; R01F Debugger; R01G Microarchitecture Security. |                                                              |                 |
 | R01A Core;                                                   |                                                              |                 |
