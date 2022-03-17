@@ -1,8 +1,11 @@
 ![img](https://github.com/RIOS-Laboratory/RIOS-Patent-Classification/blob/main/R01Micro-architecture.png)
 
+R01 Micro Architecture
+
+R01A Core; R01B Cache; R01C CoProcessor; R01D Interconnect; R01E Miscellaneous system; R01F Debugger; R01G Microarchitecture Security.
+
 | R01 Micro Architecture                                       |                                                              |                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| R01A Core; R01B Cache; R01C CoProcessor; R01D Interconnect; R01E Miscellaneous system; R01F Debugger; R01G Microarchitecture Security. |                                                              |                 |
 | R01A Core;                                                   |                                                              |                 |
 | R01A01 Fetch Unit                                            |                                                              | US10372453B2    |
 | (1) Fetch Unit is used to fetch instructions from the instruction memory during the Instruction Fetch stage in pipeline.  (2) Instruction prefetching with instruction modification, e.g. store into instruction stream. | (1) 取指令单元用于在流水线的取指令阶段从指令内存中取指令。- [https://en.wikipedia.org/wiki/Classic_RISC_pipeline] (2) 附带指令修改的指令预取，例如存储到指令流中。 |                 |
