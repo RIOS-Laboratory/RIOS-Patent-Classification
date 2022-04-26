@@ -25,5 +25,5 @@ C---C4(MOS)
 | A capacitor is a device that stores electrical energy in an electric field. It is a passive electronic component with two terminals. |
 | R05B03 Transistors                                           |
 | A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is composed of semiconductor material, usually with at least three terminals for connection to an electronic circuit. |
-| R05B04 Voltage MOS                                           |
+| R05B04 MOS                                           |
 | The metal–oxide–semiconductor field-effect transistor (MOSFET, MOS-FET, or MOS FET), also known as the metal–oxide–silicon transistor (MOS transistor, or MOS), is a type of insulated-gate field-effect transistor that is fabricated by the controlled oxidation of a semiconductor, typically silicon. |
