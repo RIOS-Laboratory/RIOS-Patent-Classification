@@ -4,6 +4,7 @@ A0[Instruction Set Architecture]---A(Computational INSTs)
 A---A1(Arithmetic Operation INST)
 A---A2(Logical Operation INST)
 A---A3(Shift Operation INST)
+A---A4(Conditional Execution Instruction)
 A0---B(Control Transfer INSTs)
 B---B1(Jump & Branch INST)
 A0---C(Memory Access INSTs)
@@ -54,6 +55,8 @@ Q---Q7(Exception INST)
 | (1) Perform bitwise operations, e.g., taking the conjunction and disjunction of corresponding bits in a pair of registers, taking the negation of each bit in a register. Compare two values in registers (for example, to see if one is less, or if they are equal) . |
 | R02A03 Shift Operation INSTs                                 |
 | (1) Shift operation instructions are used to execute Shift Logical operations and Shift Arithmetic operations. |
+| R02A04 Conditional Execution INSTs                                 |
+| (1) Conditional execution controls whether or not the core will execute an instruction. Most instructions have a condition attribute that determines if the core will execute it based on the setting of the condition flags. |
 | R02B Control Transfer INSTs                                  |
 | R02B01 Jump & Branch INSTs                                   |
 | (1) Jump and branch instructions change the control flow of a program.  (2) Branch to another location in the program and execute instructions there; Conditionally branch to another location if a certain condition holds. |
