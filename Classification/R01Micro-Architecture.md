@@ -24,13 +24,18 @@ C---C4(Non-Blocking)
 C---C5(Banked Caches)
 C---C6(Way Prediction)
 C---C7(Write Policy)
+C---C8(Replacement Policy)
+C---C9(Error Detection & Correction)
 A---D(Co-Processor)
 D---D1(Vector/SIMD)
 D---D2(AI Accelerator)
+D---D3(GPU)
+D---D4(Matrix Encoder)
 A---E(Interconnect)
 E---E1(Router)
 E---E2(Topology)
 E---E3(Flow Control)
+E---E4(Protocol)
 A---F(Debugger)
 F---F1(Chip Validation)
 F---F2(Debugging Tool)
@@ -115,6 +120,8 @@ A---H(Micro-Architecture Security)
 | (1) The on-chip network topology determines the physical layout and connections between nodes and channels in the network. A topology determines the number of hops (or routers) a message must traverse as well as the interconnect lengths between hops. |
 | R01D03 Flow Control                                          |                 |
 | (1) Flow control governs the allocation of network buffers and links. It determines when buffers and links are assigned to messages, the granularity at which they are allocated, and how these resources are shared among the many messages using the network. |
+| R01D04 Protocol                                          |                 |
+| (1) The Interconnect Protocol is the network layer communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet. |
 | R01E Miscellaneous System                                    |                 |
 | R01E01 Super Scalar                                          |   US7401205B1   |
 | (1) A superscalar processor is a CPU that implements a form of parallelism called instruction-level parallelism within a single processor. In contrast to a scalar processor, which can execute at most one single instruction per clock cycle, a superscalar processor can execute more than one instruction during a clock cycle by simultaneously dispatching multiple instructions to different execution units on the processor. |
